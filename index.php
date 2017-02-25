@@ -272,7 +272,7 @@
 
 
 <!--Portfolio-->
-<section id="portfolio" class="page-section section appear clearfix secPad">
+<section id="portfolio" class="secPad white">
   <div class="container">
     <div class="heading"> 
       <!-- Heading -->
