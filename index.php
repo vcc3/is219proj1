@@ -11,7 +11,7 @@
 <!--[if lt IE 9]> 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <![endif]-->
-<title>ME – Resume and Personal Portfolio Responsive Template</title>
+<title>Cornejo</title>
 <meta name="description" content="">
 <meta name="author" content="WebThemez">
 <!--[if lt IE 9]>
@@ -35,7 +35,7 @@
     <nav class="navbar navbar-inverse" role="navigation">
       <div class="navbar-header">
         <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-        <a href="#" class="navbar-brand scroll-top logo"><b>Me..</b></a> </div>
+        <a href="#" class="navbar-brand scroll-top logo"><b>Cornejo</b></a> </div>
       <!--/.navbar-header-->
       <div id="main-nav" class="collapse navbar-collapse">
         <ul class="nav navbar-nav" id="mainNav">
@@ -59,9 +59,8 @@
   <div class="banner-container"> <img src="images/banner-bg.jpg" alt="banner" />
     <div class="container banner-content">
       <div class="heroText">
-        <h2><span>HEllo, I'm</span><br>
-          Steve Smith</h2>
-        <span class="caption">UX Designer / Frontend Developer</span> </div>
+        <h2><span>Victor Carlos Cornejo</span></h2>
+        <span class="caption">Student/Future Worker</span> </div>
     </div>
   </div>
 </section>
