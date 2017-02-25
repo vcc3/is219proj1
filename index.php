@@ -72,7 +72,7 @@
   </div>
 </section>
 <!--About Section----------------------------------------------------------------------------------------------------------------------------->
-<section id="aboutUs">
+<section id="about">
   <div class="container">
     <div class="row"> 
       <!-- item -->
@@ -87,19 +87,118 @@
     </div>
   </div>
 </section>
-<!--Quote-->
-<section id="quote" class="bg-parlex">
-  <div class="parlex-back">
-    <div class="container">
-     <div class="row">
-	<div class="col-md-12">      <h2>“Dreams are extremely important. You can’t do it unless you imagine it.” <span>-George Lucas</span></h2></div>
-      </div>
+<!--Education Section----------------------------------------------------------------------------------------------------------------------------->
+<section id="education" class="secPad">
+<div class="container">
+<div class="heading"> 
+  <!-- Heading -->
+  <h2>Education</h2>
+  <br/>
+  <p>Below are the schools I have attended since graduation from High School.</p>
+</div>
+<div class="row experience-details">
+  <div class="col-md-6">
+    <div class="col-md-5">
+      
+      <div class="pull-left">
+        <h3>Wallkill Valley Regional High School</h3>
+        <h5>10 Grumm Rd, Hamburg, NJ 07419</h5>
+        <span>2008 - 2012</span> </div>
     </div>
-    <!--/.container--> 
+    <br>
+    <div class="col-md-7"> Graduated and started my path on coding here with some java classes. </div>
   </div>
-</section>
+  <div class="col-md-6">
+    <div class="col-md-5">
+      
+      <div class="pull-left">
+        <h3>Sussex County Community College</h3>
+        <h5>1 College Hill Rd, Newton, NJ 07860</h5>
+        <span>2012 - 2015</span> </div>
+    </div>
+    <br>
+    <div class="col-md-7"> Graduated Spring of 2015 with an Associate&#39;s Degree in Computer Science. </div>
+  </div>
+</div>
+<div class="row experience-details">
+  <div class="col-md-6">
+    <div class="col-md-5">
+     
+      <div class="pull-left">
+        <h3>New Jersey Institute of Technology</h3>
+        <h5>323 Dr Martin Luther King Jr Blvd, Newark, NJ 07102</h5>
+        <span>2015 - Current</span> </div>
+    </div>
+    <br>
+    <div class="col-md-7"> Currently perusing a BS in Web and Information Systems. Expected Grad Date: May 2018. </div>
+  </div>
 
-<!--Skills-->
+</section>
+<!--Work Section------------------------------------------------------------------------------------------------------------------------------------------>
+<!--Experience-->
+<section id="experience" class="secPad">
+<div class="container">
+<div class="heading"> 
+  <!-- Heading -->
+  <h2>Experience</h2>
+  <br/>
+  <p>Though I may still be in school, that does not mean that I have not learned some skills from outside the classroom.</p>
+</div>
+<div class="row experience-details">
+  <div class="col-md-6">
+    <div class="col-md-5">
+      <div class="icon-block"><i class="fa fa-cogs"></i></div>
+      <div class="pull-left">
+        <h3>PlanIT Networks</h3>
+        <h4>Blairstown NJ</h4>
+        <span> July 2015-July 2016</span> </div>
+    </div>
+    <div class="col-md-7"> 
+      <ul>
+                      <li>Telecommunications/ Cabling /Server Room Patching.</li>
+                      <li>On site, on call IT technician for companies without one.</li>
+                      <li>Installing equipment racks, termination of cables, running of cables wiring for systems.Cat5 /5e /Cat 6</li>
+                      <li>Punch down of cables to Male/Female ends or Panel.</li>
+                    </ul>  
+    
+    
+     </div>
+  </div>
+  <div class="col-md-6">
+    <div class="col-md-5">
+      <div class="icon-block"><i class="fa fa-send-o"></i></div>
+      <div class="pull-left">
+        <h5>Infore Managment</h5>
+        <h4>Consultant</h4>
+        <span>2011 - 2013</span> </div>
+    </div>
+    <div class="col-md-7"> Duis quis feugiat neque. Pellentesque eleifend, nisi vel mattis vestibulum, est lacus pretium quam. </div>
+  </div>
+</div>
+<div class="row experience-details">
+  <div class="col-md-6">
+    <div class="col-md-5">
+      <div class="icon-block"><i class="fa fa-shopping-cart"></i></div>
+      <div class="pull-left">
+        <h5>Infore Managment</h5>
+        <h4>Consultant</h4>
+        <span>2008 - 2011</span> </div>
+    </div>
+    <div class="col-md-7"> Duis quis feugiat neque. Pellentesque eleifend, nisi vel mattis vestibulum, est lacus pretium quam. </div>
+  </div>
+  <div class="col-md-6">
+    <div class="col-md-5">
+      <div class="icon-block"><i class="fa fa-futbol-o"></i></div>
+      <div class="pull-left">
+        <h5>Infore Managment</h5>
+        <h4>Consultant</h4>
+        <span>2002 - 2008</span> </div>
+    </div>
+    <div class="col-md-7"> Duis quis feugiat neque. Pellentesque eleifend, nisi vel mattis vestibulum, est lacus pretium quam. </div>
+  </div>
+</div>
+</section>
+<!--Skills------------------------------------------------------------------------------------------------------------------------------------------------>
 <section id="skills" class="secPad white">
   <div class="container">
     <div class="heading "> 
@@ -133,7 +232,7 @@
     <div class="row">
       <div class="col-sm-6">
         <h2>Programming Skills</h2>
-        <p class="mrgBtm20"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
+        <p class="mrgBtm20"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry''s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
       </div>
       <div class="col-sm-6"> <br/>
         <br/>
@@ -183,7 +282,7 @@
   <h2>Experience</h2>
   <br/>
   <h4>12 Years Experience!</h4>
-  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
+  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry''s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
 </div>
 <div class="row experience-details">
   <div class="col-md-6">
