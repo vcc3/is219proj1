@@ -251,9 +251,7 @@
     </div>
     <div class="row">
       <div class="col-sm-6">
-      <p>I am bilingual, meaning I can speak read write in English and Spanish.  My classroom experience has shown me that the use of Trello for task tracking, GitHub for code sharing and storage are just some tools utilized in real world workplaces., and constant need to be able to work in other languages has prepared me for the work world in which different companies and places of work utilize different programs and platforms for writing code or working on front end portions. My work experience has shown me the important of communication between workers in an organization and that one must be able to adapt to new trends in technology or else one will fall behind if they are not willing to learn and catch up with the new tech.</p>       
-        
-                  
+      <p>I am bilingual, meaning I can speak read write in English and Spanish.  My classroom experience has shown me that the use of Trello for task tracking, GitHub for code sharing and storage are just some tools utilized in real world workplaces., and constant need to be able to work in other languages has prepared me for the work world in which different companies and places of work utilize different programs and platforms for writing code or working on front end portions. My work experience has shown me the important of communication between workers in an organization and that one must be able to adapt to new trends in technology or else one will fall behind if they are not willing to learn and catch up with the new tech.</p>                        
       </div>
       <div class="col-sm-6"> <br/>
         <h3>Programming languages worked in:</h3>
@@ -264,10 +262,7 @@
                      <li>HTML/CSS</li>
                      <li>PHP</li>
                      <li>Python</li>
-                   </ul>
-        
-        
-        
+                   </ul>     
         </div>
       </div>
     </div>
@@ -282,177 +277,30 @@
     <div class="heading"> 
       <!-- Heading -->
       <h2>Portfolio</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt volutpat. Cras eget augue id dui varius pretium. Cras posuere dolor risus. Pellentesque elementum ultricies quam, sit amet rhoncus nisl viverra in. Cras imperdiet nisi a euismod molestie. Ut a metus arcu. Pellentesque feugiat dictum erat.</p>
+      <p>If you would like to see my work, go ahead and check below for the link to my GitHub repository. There I have my work and projects from school for you to see and check out.</p>
     </div>
     <div class="row">
       <nav id="filter" class="col-md-12">
         <ul>
-          <li><a href="#" class="current btn-theme btn-small" data-filter="*">All</a></li>
-          <li><a href="#" class="btn-theme btn-small" data-filter=".webdesign">Web Design</a></li>
-          <li><a href="#" class="btn-theme btn-small" data-filter=".photography">Photography</a></li>
-          <li><a href="#" class="btn-theme btn-small" data-filter=".print">Print</a></li>
+          <li><a href="https://github.com/vcc3" class="current btn-theme btn-small" data-filter="*"> My Github Repository </a></li>
+        
         </ul>
       </nav>
-      <div class="col-md-12">
-        <div class="row">
-          <div class="portfolio-items isotopeWrapper clearfix" id="3">
-            <article class="col-sm-4 isotopeItem webdesign">
-              <div class="portfolio-item"> <img src="images/portfolio/img1.jpg" alt="" />
-                <div class="portfolio-desc align-center">
-                  <div class="folio-info"> <a href="images/portfolio/img1.jpg" class="fancybox">
-                    <h5>Project Name</h5>
-                    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
-                </div>
-              </div>
-            </article>
-            <article class="col-sm-4 isotopeItem photography">
-              <div class="portfolio-item"> <img src="images/portfolio/img2.jpg" alt="" />
-                <div class="portfolio-desc align-center">
-                  <div class="folio-info"> <a href="images/portfolio/img2.jpg" class="fancybox">
-                    <h5>Project Name</h5>
-                    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
-                </div>
-              </div>
-            </article>
-            <article class="col-sm-4 isotopeItem photography">
-              <div class="portfolio-item"> <img src="images/portfolio/img3.jpg" alt="" />
-                <div class="portfolio-desc align-center">
-                  <div class="folio-info"> <a href="images/portfolio/img3.jpg" class="fancybox">
-                    <h5>Project Name</h5>
-                    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
-                </div>
-              </div>
-            </article>
-            <article class="col-sm-4 isotopeItem print">
-              <div class="portfolio-item"> <img src="images/portfolio/img4.jpg" alt="" />
-                <div class="portfolio-desc align-center">
-                  <div class="folio-info"> <a href="images/portfolio/img4.jpg" class="fancybox">
-                    <h5>Project Name</h5>
-                    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
-                </div>
-              </div>
-            </article>
-            <article class="col-sm-4 isotopeItem photography">
-              <div class="portfolio-item"> <img src="images/portfolio/img5.jpg" alt="" />
-                <div class="portfolio-desc align-center">
-                  <div class="folio-info"> <a href="images/portfolio/img5.jpg" class="fancybox">
-                    <h5>Project Name</h5>
-                    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
-                </div>
-              </div>
-            </article>
-            <article class="col-sm-4 isotopeItem webdesign">
-              <div class="portfolio-item"> <img src="images/portfolio/img6.jpg" alt="" />
-                <div class="portfolio-desc align-center">
-                  <div class="folio-info"> <a href="images/portfolio/img6.jpg" class="fancybox">
-                    <h5>Project Name</h5>
-                    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
-                </div>
-              </div>
-            </article>
-            <article class="col-sm-4 isotopeItem print">
-              <div class="portfolio-item"> <img src="images/portfolio/img7.jpg" alt="" />
-                <div class="portfolio-desc align-center">
-                  <div class="folio-info"> <a href="images/portfolio/img7.jpg" class="fancybox">
-                    <h5>Project Name</h5>
-                    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
-                </div>
-              </div>
-            </article>
-            <article class="col-sm-4 isotopeItem photography">
-              <div class="portfolio-item"> <img src="images/portfolio/img8.jpg" alt="" />
-                <div class="portfolio-desc align-center">
-                  <div class="folio-info"> <a href="images/portfolio/img8.jpg" class="fancybox">
-                    <h5>Project Name</h5>
-                    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
-                </div>
-              </div>
-            </article>
-            <article class="col-sm-4 isotopeItem print">
-              <div class="portfolio-item"> <img src="images/portfolio/img9.jpg" alt="" />
-                <div class="portfolio-desc align-center">
-                  <div class="folio-info"> <a href="images/portfolio/img9.jpg" class="fancybox">
-                    <h5>Project Name</h5>
-                    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
-                </div>
-              </div>
-            </article>
-          </div>
-        </div>
-      </div>
+      
     </div>
   </div>
 </section>
 
-<!--Contact -->
-<section id="contactUs" class="page-section secPad">
-  <div class="container">
-    <div class="row">
-      <div class="heading"> 
-        <!-- Heading -->
-        <h2>Let's Keep In Touch!</h2>
-        <p>Thank you for visiting out my profile. If you would like to get into contact with me, please fill out the form below.</p>
-      </div>
-    </div>
-    <div class="row mrgn30"> 
-        <div class="col-sm-12 col-md-8">
-         		<!--NOTE: Update your email Id in "contact_me.php" file in order to receive emails from your contact form-->
-		<form name="sentMessage" id="contactForm"  novalidate>
-		<h3>Contact Form</h3>
-		<div class="control-group">
-		<div class="controls">
-		<input type="text" class="form-control" 
-		placeholder="Full Name" id="name" required
-		data-validation-required-message="Please enter your name" />
-		<p class="help-block"></p>
-		</div>
-		</div> 	
-		<div class="control-group">
-		<div class="controls">
-		<input type="email" class="form-control" placeholder="Email" 
-		id="email" required
-		data-validation-required-message="Please enter your email" />
-		</div>
-		</div> 	
 
-		<div class="control-group">
-		<div class="controls">
-		<textarea rows="10" cols="100" class="form-control" 
-		placeholder="Message" id="message" required
-		data-validation-required-message="Please enter your message" minlength="5" 
-		data-validation-minlength-message="Min 5 characters" 
-		maxlength="999" style="resize:none"></textarea>
-		</div>
-		</div> 		 
-		<div id="success"> </div> <!-- For success/fail messages -->
-		<button type="submit" class="btn btn-primary pull-right">Send</button><br />
-		</form>
-        </div> 
-      <div class="col-sm-12 col-md-2">
-        <h4>Address:</h4>
-        <address>
-        Steve Smith<br>
-        134 Stilla. Tae., 414515<br>
-        Leorislon, SA 02434-34534 USA <br>
-        </address>
-        <h4>Phone:</h4>
-        <address>
-        12345-49589-2<br>
-        </address>
-      </div>
-    </div>
-  </div>
-  <!--/.container--> 
-</section>
 
 <!--/.page-section-->
 <footer class="copyright">
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <div class="social pull-left"> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-dribbble"></i></a> <a href="#"><i class="fa fa-flickr"></i></a> <a href="#"><i class="fa fa-github"></i></a> </div>
+        
       </div>
-      <div class="col-md-6"> <span class="pull-right">Copyright 2016 | All Rights Reserved  -- Template by <a href="http://webThemez.com">WebThemez.com</a></span> </div>
+      <div class="col-md-6"> <span class="pull-right">Copyright 2016 | All Rights Reserved  Victor Carlos Cornejo used template from <a href="http://webThemez.com">WebThemez.com</a></span> </div>
     </div>
     <!-- / .row --> 
   </div>
