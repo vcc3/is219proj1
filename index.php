@@ -147,7 +147,7 @@
 <div class="row experience-details">
   <div class="col-md-6">
     <div class="col-md-5">
-      <div class="icon-block"><i class="fa fa-cogs"></i></div>
+      
       <div class="pull-left">
         <h3>PlanIT Networks</h3>
         <h4>Blairstown NJ</h4>
@@ -155,46 +155,66 @@
     </div>
     <div class="col-md-7"> 
       <ul>
-                      <li>Telecommunications/ Cabling /Server Room Patching.</li>
-                      <li>On site, on call IT technician for companies without one.</li>
-                      <li>Installing equipment racks, termination of cables, running of cables wiring for systems.Cat5 /5e /Cat 6</li>
-                      <li>Punch down of cables to Male/Female ends or Panel.</li>
-                    </ul>  
+          <li>Telecommunications/ Cabling /Server Room Patching.</li>
+          <li>On site, on call IT technician for companies without one.</li>
+          <li>Installing equipment racks, termination of cables, running of cables wiring for systems. Cabled Cat5 /5e /Cat 6</li>
+          <li>Punch down of cables to Male/Female ends or Panel.</li>
+      </ul>  
     
     
      </div>
   </div>
   <div class="col-md-6">
     <div class="col-md-5">
-      <div class="icon-block"><i class="fa fa-send-o"></i></div>
+      
       <div class="pull-left">
-        <h5>Infore Managment</h5>
-        <h4>Consultant</h4>
-        <span>2011 - 2013</span> </div>
+        <h3>Delaware Cemetery Association</h3>
+        <h4>Dingmans Ferry ,PA</h4>
+        <span>Summer 2014</span> </div>
     </div>
-    <div class="col-md-7"> Duis quis feugiat neque. Pellentesque eleifend, nisi vel mattis vestibulum, est lacus pretium quam. </div>
+    <div class="col-md-7"> 
+     <ul>
+         <li>	Created a website structure for a Cemetery association.</li>
+         <li>Met with client to discuss goals and deadlines.</li>
+         <li>Delivered final submission that met client expectations.</li>
+         <li>Website - <a href ="http://delawarecemeterypa.com"> Internship Opportunity.</a></li>
+     </ul> 
+    </div>
   </div>
 </div>
 <div class="row experience-details">
   <div class="col-md-6">
     <div class="col-md-5">
-      <div class="icon-block"><i class="fa fa-shopping-cart"></i></div>
+    
       <div class="pull-left">
-        <h5>Infore Managment</h5>
-        <h4>Consultant</h4>
-        <span>2008 - 2011</span> </div>
+        <h3>Weis Markets </h3>
+        <h4>Newton NJ</h4>
+        <span>August 2012 - August 2015</span> </div>
     </div>
-    <div class="col-md-7"> Duis quis feugiat neque. Pellentesque eleifend, nisi vel mattis vestibulum, est lacus pretium quam. </div>
+    <div class="col-md-7"> 
+		<ul>
+			  <li>Produce Clerk,  building and stocking displays.</li>
+			  <li>Working night shifts, or opening department</li>
+			  <li>Unloading of delivery to coolers /freezer.</li>
+		</ul>   
+	</div>
   </div>
   <div class="col-md-6">
     <div class="col-md-5">
-      <div class="icon-block"><i class="fa fa-futbol-o"></i></div>
+      
       <div class="pull-left">
-        <h5>Infore Managment</h5>
-        <h4>Consultant</h4>
-        <span>2002 - 2008</span> </div>
+        <h3>Pet Spa and Resort</h3>
+        <h4>Franklin NJ</h4>
+        <span>August 2016- Current</span> </div>
     </div>
-    <div class="col-md-7"> Duis quis feugiat neque. Pellentesque eleifend, nisi vel mattis vestibulum, est lacus pretium quam. </div>
+    <div class="col-md-7"> 
+		<ul>
+            <li> Currently working weekends only</li>
+            <li>Walk,feed, take care of customers pets.</li>
+            <li>Constant cleaning to make sure things are steralized and germ free.</li>
+    </ul> 
+
+	</div>
   </div>
 </div>
 </section>
