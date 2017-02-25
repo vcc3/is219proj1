@@ -35,16 +35,16 @@
     <nav class="navbar navbar-inverse" role="navigation">
       <div class="navbar-header">
         <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-        <a href="#" class="navbar-brand scroll-top logo"><b>Cornejo</b></a> </div>
+        <a href="#" class="navbar-brand scroll-top logo"><b></b></a> </div>
       <!--/.navbar-header-->
       <div id="main-nav" class="collapse navbar-collapse">
         <ul class="nav navbar-nav" id="mainNav">
           <li class="active"><a href="#home" class="scroll-link">Home</a></li>
-          <li><a href="#aboutUs" class="scroll-link">About Us</a></li>
-          <li><a href="#skills" class="scroll-link">Skills</a></li>
+          <li><a href="#about" class="scroll-link">About </a></li>
+          <li><a href="#education" class="scroll-link">Education</a></li>
           <li><a href="#experience" class="scroll-link">Experience</a></li>
+          <li><a href="#skills" class="scroll-link">Skills</a></li>
           <li><a href="#portfolio" class="scroll-link">Portfolio</a></li>
-          <li><a href="#contactUs" class="scroll-link">Contact Us</a></li>
         </ul>
       </div>
       <!--/.navbar-collapse--> 
@@ -67,26 +67,21 @@
 <section id="introText">
   <div class="container">
     <div>
-      <h1>I create beautiful responsive websites, Yes I am a UX geek</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt volutpat. Cras eget augue id dui varius pretium. Cras posuere dolor risus. Pellentesque elementum ultricies quam, sit amet rhoncus nisl viverra in. Cras imperdiet nisi a euismod molestie. Ut a metus arcu. Pellentesque feugiat dictum erat. Nulla vehicula condimentum purus, quis imperdiet nisl ultricies eleifend. Nulla quis rhoncus risus. Ut vel vehicula urna.</p>
+     <p>This page was created for any individual looking to see the work history and skills of Victor Carlos Cornejo</p>
     </div>
   </div>
 </section>
-<!--About-->
+<!--About Section----------------------------------------------------------------------------------------------------------------------------->
 <section id="aboutUs">
   <div class="container">
     <div class="row"> 
       <!-- item -->
-      <div class="col-md-4 tileBox"> <img src="images/vic.jpg" alt="me"/> </div>
+      <div class="col-md-4 tileBox"> <img src="images/vic.jpg" alt="me" width = 300px height = 300px/> </div>
       <div class="col-md-8 tileBox">
         <div class="txtHead">
-          <h2>I am Steve Smith,</h2>
-          <h3> Web UI/UX Designer/Front End Developer Based in England, UK.</h3>
-        </div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elitendisse interdum erat et neque tincidunt volutpat. Cras eget. Suspendisse interdum erat et neque tincidunt volutpat. <br/>
-          <br/>
-          Cras eget augue id dui varius pretium.
-          Consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt volutpat. Cras eget augue id dui varius.</p>
+          <h2>About Me</h2>
+          
+        <p>As a current student at New Jerseys Institute of Technology, I am currently searching for opportunities within my field of both Computer Science and Web and Information Systems.  Since graduating High School back in 2012, I have been fascinated with the new wave of technology and programs that had arisen. The tech field of software and hardware is big and has many different sub fields within them that are of interest to me.  As of now I have worked in the coding portion along with some IT experience from past internships and jobs. For me it is important to understand the different fields and how they are all connected to one another. I try to get myself acquainted and experienced within these different branches that stem of the tech field by working in IT positions, Web development and application   development. My skills are still growing for every semester and every job brings new knowledge to me and I hope to keep it ever growing.</p>
       </div>
       <!-- end: --> 
     </div>
